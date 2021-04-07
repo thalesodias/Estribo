@@ -37,11 +37,17 @@ praticar seu esporte preferido! 💜
 
 ## 🥇 Equipe
 
-Back End - Vinícius Barreto –  (https://www.linkedin.com/in/vinicius-barreto-64702b193/)
+Back End - Vinícius Barreto –  (https://github.com/ViniciusBarreto-Developer)
 
 Front End - Thalles Dias –  (https://github.com/thalesodias)
 
 Design - Isabelly Filgueira –  (https://github.com/IFilgueira)
+
+---
+
+## 📎 Link do projeto
+
+Projeto Estribo - (https://github.com/ViniciusBarreto-Developer/ProjetoEstribo)
 
 ---
 
