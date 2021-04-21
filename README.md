@@ -39,7 +39,7 @@ praticar seu esporte preferido! 💜
 
 Back End - Vinícius Barreto –  (https://github.com/ViniciusBarreto-Developer)
 
-Front End - Thalles Dias –  (https://github.com/thalesodias)
+Front End - Thales Dias –  (https://github.com/thalesodias)
 
 Design - Isabelly Filgueira –  (https://github.com/IFilgueira)
 
